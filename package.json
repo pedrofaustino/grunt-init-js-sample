@@ -1,0 +1,21 @@
+{
+    "name": "sample",
+    "title": "js project",
+    "description": "grunt init for a non-jquery javascript project",
+    "version": "0.1.0",
+    "author": {
+        "name": "Pedro Faustino"
+    },
+    "engines": {
+        "node": ">= 0.6.0"
+    },
+    "scripts": {
+        "test": "grunt qunit"
+    },
+    "devDependencies": {
+        "grunt": "~0.3.17",
+        "docco": "0.4.0",
+        "grunt-docco": "0.1.2",
+        "coffee-script": "1.4.0"
+    }
+}
